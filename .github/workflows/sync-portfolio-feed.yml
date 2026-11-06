@@ -7,7 +7,7 @@ on:
       - ".github/workflows/sync-portfolio-feed.yml"
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "17 * * * *"
 
 permissions:
   contents: write
@@ -28,7 +28,9 @@ jobs:
         run: |
           set -euo pipefail
           url='https://materik-ai.ru/portfolio-feed/?format=json'
-          curl --fail --show-error --silent --location             --retry 3 --retry-all-errors --connect-timeout 20 --max-time 90             "$url" -o /tmp/portfolio-feed.json
+          curl --fail --show-error --silent --location \
+            --retry 3 --retry-all-errors --connect-timeout 20 --max-time 90 \
+            "$url" -o /tmp/portfolio-feed.json
 
           python3 - <<'PY'
           import json
