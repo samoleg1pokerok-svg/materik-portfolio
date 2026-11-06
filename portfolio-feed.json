@@ -1,61 +1,1008 @@
 {
   "site": "MATERIK",
   "portfolio": "https://materik-ai.ru/portfolio/",
-  "count": 52,
-  "source": "https://materik-ai.ru/portfolio-feed/?format=json",
-  "note": "GitHub mirror. Use only project.url for portfolio links.",
+  "count": 66,
+  "updatedAt": "2026-10-27T06:16:05+00:00",
   "projects": [
-    {"id":"samurai-compass","title":"Самурайский компас","url":"https://materik-ai.ru/portfolio/samurai-compass/"},
-    {"id":"headphones","title":"Наушники — средство от понедельников","url":"https://materik-ai.ru/portfolio/headphones/"},
-    {"id":"nzt","title":"Трейлер кофе NZT","url":"https://materik-ai.ru/portfolio/nzt/"},
-    {"id":"groundhog-day","title":"День сурка — психология и саморазвитие","url":"https://materik-ai.ru/portfolio/groundhog-day/"},
-    {"id":"pregnancy-exchange","title":"Обмен беременностью — реклама психолога","url":"https://materik-ai.ru/portfolio/pregnancy-exchange/"},
-    {"id":"dog-special-service","title":"Собачья спецслужба","url":"https://materik-ai.ru/portfolio/dog-special-service/"},
-    {"id":"chihuahua","title":"Чихуа спасает плачущего","url":"https://materik-ai.ru/portfolio/chihuahua/"},
-    {"id":"cat-snore","title":"Кот и храп","url":"https://materik-ai.ru/portfolio/cat-snore/"},
-    {"id":"puhosos","title":"Вселенная Пухососа","url":"https://materik-ai.ru/portfolio/puhosos/"},
-    {"id":"takticheskaya-odezhda","title":"Тактическая одежда","url":"https://materik-ai.ru/portfolio/takticheskaya-odezhda/"},
-    {"id":"ne-zastavlyay-chihuashku-begat","title":"Не заставляй Чихуашку бегать","url":"https://materik-ai.ru/portfolio/ne-zastavlyay-chihuashku-begat/"},
-    {"id":"pearl-effect","title":"Жемчужный эффект","url":"https://materik-ai.ru/portfolio/pearl-effect/"},
-    {"id":"kachok-chihua-i-kost","title":"Качок чихуа и кость","url":"https://materik-ai.ru/portfolio/kachok-chihua-i-kost/"},
-    {"id":"chihuahua-i-mastif","title":"Чихуахуа и Мастиф","url":"https://materik-ai.ru/portfolio/chihuahua-i-mastif/"},
-    {"id":"hair-exchange","title":"Обмен волосами","url":"https://materik-ai.ru/portfolio/hair-exchange/"},
-    {"id":"sumka-ubezhische","title":"Сумка-убежище","url":"https://materik-ai.ru/portfolio/sumka-ubezhische/"},
-    {"id":"airpods","title":"AirPods","url":"https://materik-ai.ru/portfolio/airpods/"},
-    {"id":"reability-istoriya-yuriya-kichatova","title":"ReAbility история Юрия Кичатова","url":"https://materik-ai.ru/portfolio/reability-istoriya-yuriya-kichatova/"},
-    {"id":"virusnyy-rolik-zamena-geroya-cherez-ai","title":"«Вирусный ролик: замена героя через AI»","url":"https://materik-ai.ru/portfolio/virusnyy-rolik-zamena-geroya-cherez-ai/"},
-    {"id":"avatar-pushkina","title":"Аватар Пушкина","url":"https://materik-ai.ru/portfolio/avatar-pushkina/"},
-    {"id":"agrokonsul-tant-ai","title":"АгроКонсультант AI","url":"https://materik-ai.ru/portfolio/agrokonsul-tant-ai/"},
-    {"id":"voin-i-drakon","title":"Воин и Дракон","url":"https://materik-ai.ru/portfolio/voin-i-drakon/"},
-    {"id":"volshebnik-i-drakon","title":"Волшебник и Дракон","url":"https://materik-ai.ru/portfolio/volshebnik-i-drakon/"},
-    {"id":"devushka-i-robot","title":"Девушка и робот","url":"https://materik-ai.ru/portfolio/devushka-i-robot/"},
-    {"id":"demo-bot-dlya-prodazhi-nedvizhimosti","title":"Демо-бот для продажи недвижимости","url":"https://materik-ai.ru/portfolio/demo-bot-dlya-prodazhi-nedvizhimosti/"},
-    {"id":"dizayn-vitaminov","title":"Дизайн витаминов","url":"https://materik-ai.ru/portfolio/dizayn-vitaminov/"},
-    {"id":"kak-usilit-ekspertnyy-reels-s-pomosch-yu-ai","title":"Как усилить экспертный Reels с помощью AI","url":"https://materik-ai.ru/portfolio/kak-usilit-ekspertnyy-reels-s-pomosch-yu-ai/"},
-    {"id":"kachok-i-mastif","title":"Качок и мастиф","url":"https://materik-ai.ru/portfolio/kachok-i-mastif/"},
-    {"id":"kostyum-pingvina-dlya-detey","title":"Костюм пингвина для детей","url":"https://materik-ai.ru/portfolio/kostyum-pingvina-dlya-detey/"},
-    {"id":"kot-kachok","title":"Кот-качок","url":"https://materik-ai.ru/portfolio/kot-kachok/"},
-    {"id":"kotambiya-pikchers-doktorskuyu-zhevalo-seriya-1","title":"Котамбия Пикчерс — Докторскую жевало серия 1","url":"https://materik-ai.ru/portfolio/kotambiya-pikchers-doktorskuyu-zhevalo-seriya-1/"},
-    {"id":"kotenok-pod-dozhdem","title":"Котёнок под дождём","url":"https://materik-ai.ru/portfolio/kotenok-pod-dozhdem/"},
-    {"id":"montazh-reels-dlya-medicinskoy-kliniki","title":"Монтаж Reels для медицинской клиники","url":"https://materik-ai.ru/portfolio/montazh-reels-dlya-medicinskoy-kliniki/"},
-    {"id":"montazh-novostnogo-reels-novosti-na-begu","title":"Монтаж новостного Reels — «Новости на бегу»","url":"https://materik-ai.ru/portfolio/montazh-novostnogo-reels-novosti-na-begu/"},
-    {"id":"obmen-ochkami","title":"Обмен очками","url":"https://materik-ai.ru/portfolio/obmen-ochkami/"},
-    {"id":"odin-prompt-tri-generacii","title":"Один промпт — три генерации","url":"https://materik-ai.ru/portfolio/odin-prompt-tri-generacii/"},
-    {"id":"psihologiya-otnosheniy-muzhchiny-i-zhenschiny","title":"Психология отношений мужчины и женщины","url":"https://materik-ai.ru/portfolio/psihologiya-otnosheniy-muzhchiny-i-zhenschiny/"},
-    {"id":"pul-t-ot-chuzhogo-mneniya","title":"Пульт от чужого мнения","url":"https://materik-ai.ru/portfolio/pul-t-ot-chuzhogo-mneniya/"},
-    {"id":"puhosos-i-viskovoz","title":"Пухосос и Висковоз","url":"https://materik-ai.ru/portfolio/puhosos-i-viskovoz/"},
-    {"id":"reklama-pokerruma","title":"Реклама Покеррума","url":"https://materik-ai.ru/portfolio/reklama-pokerruma/"},
-    {"id":"maxi-life-reklama-nedvizhimosti","title":"Реклама недвижимости","url":"https://materik-ai.ru/portfolio/maxi-life-reklama-nedvizhimosti/"},
-    {"id":"reklamnyy-razgovornyy-rils","title":"Рекламный разговорный рилс","url":"https://materik-ai.ru/portfolio/reklamnyy-razgovornyy-rils/"},
-    {"id":"remont-kvartir","title":"Ремонт квартир","url":"https://materik-ai.ru/portfolio/remont-kvartir/"},
-    {"id":"romantichnoe-fentezi","title":"Романтичное фэнтези","url":"https://materik-ai.ru/portfolio/romantichnoe-fentezi/"},
-    {"id":"sal-to-na-gruzovike","title":"Сальто на грузовике","url":"https://materik-ai.ru/portfolio/sal-to-na-gruzovike/"},
-    {"id":"sozdanie-reklamnyy-ob-yavleniy","title":"Создание рекламных объявлений","url":"https://materik-ai.ru/portfolio/sozdanie-reklamnyy-ob-yavleniy/"},
-    {"id":"tort-ot-neyroseti","title":"Торт от нейросети","url":"https://materik-ai.ru/portfolio/tort-ot-neyroseti/"},
-    {"id":"tort-versiya-montazha","title":"Торт — версия монтажа","url":"https://materik-ai.ru/portfolio/tort-versiya-montazha/"},
-    {"id":"finansovyy-rolik","title":"Финансовый ролик","url":"https://materik-ai.ru/portfolio/finansovyy-rolik/"},
-    {"id":"hudi","title":"Худи","url":"https://materik-ai.ru/portfolio/hudi/"},
-    {"id":"ekspertnyy-razgovornyy-rils","title":"Экспертный разговорный рилс","url":"https://materik-ai.ru/portfolio/ekspertnyy-razgovornyy-rils/"},
-    {"id":"elektrika","title":"Электрика","url":"https://materik-ai.ru/portfolio/elektrika/"}
+    {
+      "id": "kak-investiruyut-bogatye-i-bednye",
+      "title": "Как инвестируют богатые и бедные",
+      "seoTitle": "Как инвестируют богатые и бедные — MATERIK",
+      "summary": "Экспертное видео о том как правильно инвестировать? Монтаж выполнен в виде сравнения.",
+      "description": "Экспертное видео о том как правильно инвестировать? Монтаж выполнен в виде сравнения.",
+      "categories": [
+        "Экспертные видео и блоги"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kak-investiruyut-bogatye-i-bednye/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kak-investiruyut-bogatye-i-bednye",
+      "cover": "https://materik-ai.ru/content/media/projects/kak-investiruyut-bogatye-i-bednye/cover-01-6ce4c8.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "samurai-compass",
+      "title": "Самурайский компас",
+      "seoTitle": "Самурайский компас — рекламный визуал и AI-видео | MATERIK",
+      "summary": "Креативная подача товара.",
+      "description": "Рекламный кейс для товара: серия визуальных карточек и видеокреатив с самурайским компасом. Пример AI-контента и продуктовой подачи MATERIK.",
+      "categories": [
+        "Реклама",
+        "Карточки и изображения"
+      ],
+      "url": "https://materik-ai.ru/portfolio/samurai-compass/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#samurai-compass",
+      "cover": "https://materik-ai.ru/media/covers/compass.webp",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "headphones",
+      "title": "Наушники — средство от понедельников",
+      "seoTitle": "Наушники — рекламный видеокреатив и карточки | MATERIK",
+      "summary": "Креативная реклама и карточки.",
+      "description": "Креативная реклама наушников: видеоролик и карточки товара с концепцией «средство от понедельников». Пример продуктового AI-контента MATERIK.",
+      "categories": [
+        "Реклама",
+        "Карточки и изображения"
+      ],
+      "url": "https://materik-ai.ru/portfolio/headphones/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#headphones",
+      "cover": "https://materik-ai.ru/media/covers/headphones-featured.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "nzt",
+      "title": "Трейлер кофе NZT",
+      "seoTitle": "Трейлер кофе NZT — AI-реклама продукта | MATERIK",
+      "summary": "Сюжетный трейлер продукта.",
+      "description": "Сюжетный рекламный трейлер кофе NZT в формате короткой истории. Пример AI-видео для продукта с акцентом на атмосферу и рекламную подачу.",
+      "categories": [
+        "Реклама",
+        "Сериалы и истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/nzt/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#nzt",
+      "cover": "https://materik-ai.ru/media/covers/nzt-featured.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "groundhog-day",
+      "title": "День сурка — психология и саморазвитие",
+      "seoTitle": "День сурка — AI-видеокреатив для психологии | MATERIK",
+      "summary": "Из постера — в видеокреатив.",
+      "description": "Видеокреатив на тему психологии и саморазвития, созданный из исходного постера. Пример превращения статичного визуала в рекламный AI-контент.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/groundhog-day/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#groundhog-day",
+      "cover": "https://materik-ai.ru/media/covers/groundhog.jpg",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "chachat-vyberi-personazha-sozday-istoriyu",
+      "title": "ChatChat— выбери персонажа, создай историю",
+      "seoTitle": "AI-реклама приложения ChaChat | MATERIK",
+      "summary": "Рекламный AI-ролик для приложения ChaChat: один герой проходит через разные эпохи, стили и миры, показывая возможности виртуальных персонажей и интерактивных историй.",
+      "description": "Рекламный AI-ролик для ChaChat: виртуальный персонаж меняет эпохи, образы и миры, демонстрируя возможности приложения и интерактивных историй.",
+      "categories": [
+        "Реклама и карточки товара",
+        "Виртуальные персонажи"
+      ],
+      "url": "https://materik-ai.ru/portfolio/chachat-vyberi-personazha-sozday-istoriyu/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#chachat-vyberi-personazha-sozday-istoriyu",
+      "cover": "https://materik-ai.ru/content/media/projects/chachat-vyberi-personazha-sozday-istoriyu/cover-01-4f2a37.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "pregnancy-exchange",
+      "title": "Обмен беременностью — реклама психолога",
+      "seoTitle": "Обмен беременностью — AI-реклама психолога | MATERIK",
+      "summary": "Реклама с вирусной идеей.",
+      "description": "Рекламный видеокреатив для психолога с вирусной идеей «обмена беременностью». Пример нестандартной концепции для экспертного контента.",
+      "categories": [
+        "Экспертный контент",
+        "Реклама"
+      ],
+      "url": "https://materik-ai.ru/portfolio/pregnancy-exchange/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#pregnancy-exchange",
+      "cover": "https://materik-ai.ru/media/covers/pregnancy-featured.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "dog-special-service",
+      "title": "Собачья спецслужба",
+      "seoTitle": "Собачья спецслужба — AI-мини-сериал | MATERIK",
+      "summary": "AI-комедийный мини-сериал · Операция «Пицца»",
+      "description": "AI-комедийный мини-сериал «Собачья спецслужба». Эпизод «Операция Пицца» — пример серийного развлекательного контента с постоянной стилистикой.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории",
+        "Серийный контент"
+      ],
+      "url": "https://materik-ai.ru/portfolio/dog-special-service/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#dog-special-service",
+      "cover": "https://materik-ai.ru/media/covers/dog-special-service.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "chihuahua",
+      "title": "Чихуа спасает плачущего",
+      "seoTitle": "Чихуа спасает плачущего — нативная AI-реклама | MATERIK",
+      "summary": "Нативная реклама внутри истории.",
+      "description": "Сюжетный AI-ролик с нативной рекламой внутри истории: чихуахуа становится героем эмоциональной сцены. Пример рекламного сторителлинга MATERIK.",
+      "categories": [
+        "Реклама",
+        "Развлекательный контент",
+        "Сериалы и истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/chihuahua/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#chihuahua",
+      "cover": "https://materik-ai.ru/media/covers/chihuahua.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "devochka-i-gorynych",
+      "title": "Девочка и Горыныч",
+      "seoTitle": "Девочка и Горыныч — короткий AI-мультфильм | MATERIK",
+      "summary": "Короткая 3D-сцена с постоянными персонажами: девушка пытается справиться с трёхголовым драконом, а юмор строится на реакции его трёх голов.",
+      "description": "Короткий AI-мультфильм в стилистике 3D-анимации: постоянные персонажи, трёхголовый дракон, живая мимика и юмористическая мини-сцена.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/devochka-i-gorynych/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#devochka-i-gorynych",
+      "cover": "https://materik-ai.ru/content/media/projects/devochka-i-gorynych/cover-01-25b7d1.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "cat-snore",
+      "title": "Кот и храп",
+      "seoTitle": "Кот и храп — короткий AI-видеокреатив | MATERIK",
+      "summary": "Короткий развлекательный контент.",
+      "description": "Короткий развлекательный видеокреатив с котом, построенный на комедийной ситуации с храпом. Пример компактного AI-контента для соцсетей.",
+      "categories": [
+        "Развлекательный контент"
+      ],
+      "url": "https://materik-ai.ru/portfolio/cat-snore/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#cat-snore",
+      "cover": "https://materik-ai.ru/media/covers/cat-snore-featured.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "mul-t-reklama-fitsmile",
+      "title": "Мульт реклама FitSmile",
+      "seoTitle": "Мульт реклама FitSmile — MATERIK",
+      "summary": "Мультипликационная реклама товаров для фитнесса",
+      "description": "Мультипликационная реклама товаров для фитнесса",
+      "categories": [
+        "Мультфильмы и кинематографичные истории",
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/mul-t-reklama-fitsmile/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#mul-t-reklama-fitsmile",
+      "cover": "https://materik-ai.ru/content/media/projects/mul-t-reklama-fitsmile/cover-01-aa208c.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "puhosos",
+      "title": "Вселенная Пухососа",
+      "seoTitle": "Вселенная Пухососа — серийный AI-контент | MATERIK",
+      "summary": "Серийный контент с героем.",
+      "description": "Серийный AI-контент с постоянным героем Пухососом. Пример развития собственного персонажа и визуально связанной серии коротких роликов.",
+      "categories": [
+        "Развлекательный контент",
+        "Сериалы и истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/puhosos/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#puhosos",
+      "cover": "https://materik-ai.ru/media/covers/puhosos-featured.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "takticheskaya-odezhda",
+      "title": "Тактическая одежда",
+      "seoTitle": "Реклама тактической одежды",
+      "summary": "Кинематографичный рекламный тизер тактической одежды",
+      "description": "Кинематографичная AI-реклама тактической одежды: динамичный милитари-тизер с внедорожником, отрядом бойцов и эффектной демонстрацией бренда. Создание AI-видео — MATERIK",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/takticheskaya-odezhda/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#takticheskaya-odezhda",
+      "cover": "https://materik-ai.ru/content/media/projects/takticheskaya-odezhda/cover-01-c469ba.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "ne-zastavlyay-chihuashku-begat",
+      "title": "Не заставляй Чихуашку бегать",
+      "seoTitle": "Не заставляй Чихуашку бегать — AI-видеокреатив | MATERIK",
+      "summary": "Можно использовать как рекламу, в частности товаров и кормов для животных.",
+      "description": "AI-видеокреатив с чихуахуа, который можно адаптировать под рекламу товаров для животных, включая корма. Пример короткого рекламного сюжета.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/ne-zastavlyay-chihuashku-begat/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#ne-zastavlyay-chihuashku-begat",
+      "cover": "https://materik-ai.ru/content/media/projects/ne-zastavlyay-chihuashku-begat/cover-01-768a00.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "ai-avatar-v-dvizhenii",
+      "title": "AI-аватар в движении",
+      "seoTitle": "AI-аватар в движении для видео | MATERIK",
+      "summary": "Фотореалистичный полнофигурный AI-аватар в движении: естественная мимика, речь, жесты и подача в деловой обстановке.",
+      "description": "Фотореалистичный AI-аватар с речью, естественной мимикой, жестами и движением в кадре для рекламы, Reels и экспертных видео.",
+      "categories": [
+        "Виртуальные персонажи"
+      ],
+      "url": "https://materik-ai.ru/portfolio/ai-avatar-v-dvizhenii/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#ai-avatar-v-dvizhenii",
+      "cover": "https://materik-ai.ru/content/media/projects/ai-avatar-v-dvizhenii/cover-01-67ba71.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "pearl-effect",
+      "title": "Жемчужный эффект",
+      "seoTitle": "Жемчужный эффект — премиальная AI-реклама | MATERIK",
+      "summary": "Премиальная реклама продукта.",
+      "description": "Премиальный рекламный видеокреатив продукта с акцентом на визуальную эстетику и эффектную подачу. Пример AI-рекламы MATERIK.",
+      "categories": [
+        "Реклама"
+      ],
+      "url": "https://materik-ai.ru/portfolio/pearl-effect/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#pearl-effect",
+      "cover": "https://materik-ai.ru/content/media/projects/pearl-effect/cover-01-8e8d19.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "kachok-chihua-i-kost",
+      "title": "Качок чихуа и кость",
+      "seoTitle": "Качок чихуа и кость — вирусный AI-ролик | MATERIK",
+      "summary": "Вирусный ролик о любви к животным",
+      "description": "Вирусный AI-ролик с чихуахуа и визуальной комедийной идеей вокруг кости. Пример короткого развлекательного контента о животных.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kachok-chihua-i-kost/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kachok-chihua-i-kost",
+      "cover": "https://materik-ai.ru/content/media/projects/kachok-chihua-i-kost/cover-01-74fc14.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "poisk-blogerov-dlya-kliniki",
+      "title": "Поиск блогеров для клиники",
+      "seoTitle": "Поиск блогеров для клиники — MATERIK",
+      "summary": "Видео эксперта  о поиске блогеров для рекламы клиники.",
+      "description": "Видео эксперта  о поиске блогеров для рекламы клиники.",
+      "categories": [
+        "Экспертные видео и блоги"
+      ],
+      "url": "https://materik-ai.ru/portfolio/poisk-blogerov-dlya-kliniki/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#poisk-blogerov-dlya-kliniki",
+      "cover": "https://materik-ai.ru/content/media/projects/poisk-blogerov-dlya-kliniki/cover-01-8417e9.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "chihuahua-i-mastif",
+      "title": "Чихуахуа и Мастиф",
+      "seoTitle": "Чихуахуа и мастиф — юмористический AI-ролик | MATERIK",
+      "summary": "Юморной ролик на базе вирусного контента",
+      "description": "Юмористический AI-ролик с чихуахуа и мастифом, созданный на основе механики вирусного контента. Пример короткого видео для соцсетей.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/chihuahua-i-mastif/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#chihuahua-i-mastif",
+      "cover": "https://materik-ai.ru/content/media/projects/chihuahua-i-mastif/cover-01-1962a3.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "hair-exchange",
+      "title": "Обмен волосами",
+      "seoTitle": "Обмен волосами — AI-видеокреатив о пересадке волос | MATERIK",
+      "summary": "Короткий видеокреатив.",
+      "description": "Короткий AI-видеокреатив на тему пересадки волос, построенный на визуальной идее обмена волосами. Пример контента для медицинской и beauty-ниши.",
+      "categories": [
+        "Развлекательный контент"
+      ],
+      "url": "https://materik-ai.ru/portfolio/hair-exchange/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#hair-exchange",
+      "cover": "https://materik-ai.ru/media/covers/hair-exchange-cover.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "sumka-ubezhische",
+      "title": "Сумка-убежище",
+      "seoTitle": "Сумка-убежище — fashion AI-видеокреатив | MATERIK",
+      "summary": "Fashion-видеокреатив: предметы буквально спасаются внутри сумки. Получилось два варианта.",
+      "description": "Fashion-видеокреатив «Сумка-убежище»: предметы буквально спасаются внутри сумки. Два варианта рекламной идеи для продукта.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/sumka-ubezhische/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#sumka-ubezhische",
+      "cover": "https://materik-ai.ru/content/media/projects/sumka-ubezhische/cover-01-f1e39d.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "ai-reklama-krossovok-v-fashion-stile",
+      "title": "AI-реклама кроссовок в fashion-стиле",
+      "seoTitle": "AI-реклама кроссовок в fashion-стиле | MATERIK",
+      "summary": "Два варианта AI-рекламы кроссовок в заданной стилистике бренда: fashion-съёмка, динамика, крупные продуктовые планы и сохранение модели товара между сценами.",
+      "description": "AI-реклама кроссовок с fashion-съёмкой, динамичными сценами и крупными планами товара. Сохранение дизайна продукта в разных ракурсах.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/ai-reklama-krossovok-v-fashion-stile/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#ai-reklama-krossovok-v-fashion-stile",
+      "cover": "https://materik-ai.ru/content/media/projects/ai-reklama-krossovok-v-fashion-stile/cover-01-c8b826.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "airpods",
+      "title": "AirPods",
+      "seoTitle": "AirPods — креативная карточка товара | MATERIK",
+      "summary": "Карточка товара с нестандартным подходом - продаем не товар, а состояние...",
+      "description": "Карточка товара AirPods с нестандартной рекламной концепцией: акцент не на характеристиках, а на ощущении и состоянии от продукта.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/airpods/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#airpods",
+      "cover": "https://materik-ai.ru/content/media/projects/airpods/cover-01-34e4ca.webp",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "reability-istoriya-yuriya-kichatova",
+      "title": "ReAbility история Юрия Кичатова",
+      "seoTitle": "ReAbility — документальная история реабилитации | MATERIK",
+      "summary": "Документальная история реабилитации пациента",
+      "description": "Документальная видеоистория реабилитации пациента Юрия Кичатова для ReAbility. Пример экспертного и медицинского контента в формате истории.",
+      "categories": [
+        "Экспертные видео и блоги"
+      ],
+      "url": "https://materik-ai.ru/portfolio/reability-istoriya-yuriya-kichatova/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#reability-istoriya-yuriya-kichatova",
+      "cover": "https://materik-ai.ru/content/media/projects/reability-istoriya-yuriya-kichatova/cover-01-e38803.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "virusnyy-rolik-zamena-geroya-cherez-ai",
+      "title": "«Вирусный ролик: замена героя через AI»",
+      "seoTitle": "Замена героя через AI — вирусный видеокреатив | MATERIK",
+      "summary": "Персонаж заменён на чихуахуа с сохранением движений, динамики и логики оригинального видео.",
+      "description": "AI-замена героя в вирусном ролике: персонаж заменён на чихуахуа с сохранением движений, динамики и логики исходного видео.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/virusnyy-rolik-zamena-geroya-cherez-ai/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#virusnyy-rolik-zamena-geroya-cherez-ai",
+      "cover": "https://materik-ai.ru/content/media/projects/virusnyy-rolik-zamena-geroya-cherez-ai/cover-01-ba4cb2.png",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "avatar-pushkina",
+      "title": "Аватар Пушкина",
+      "seoTitle": "Аватар Пушкина — виртуальный AI-персонаж | MATERIK",
+      "summary": "Аватар Пушкина читает стихотворение.",
+      "description": "Виртуальный AI-аватар Александра Пушкина читает стихотворение. Пример создания цифрового персонажа и видеоконтента с говорящим героем.",
+      "categories": [
+        "Виртуальные персонажи"
+      ],
+      "url": "https://materik-ai.ru/portfolio/avatar-pushkina/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#avatar-pushkina",
+      "cover": "https://materik-ai.ru/content/media/projects/avatar-pushkina/cover-01-cdda2e.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "agrokonsul-tant-ai",
+      "title": "АгроКонсультант AI",
+      "seoTitle": "АгроКонсультант AI — бот для сельхозтехники | MATERIK",
+      "summary": "AI-помощник для подбора сельхозтехники и запчастей под задачу клиента.\r\nПри первом запуске сервер отвечает через 30 секунд",
+      "description": "AI-помощник для подбора сельхозтехники и запчастей под задачу клиента. Демо веб-бота для автоматизации консультаций в агротематике.",
+      "categories": [
+        "Боты и автоматизация"
+      ],
+      "url": "https://materik-ai.ru/portfolio/agrokonsul-tant-ai/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#agrokonsul-tant-ai",
+      "cover": "https://materik-ai.ru/content/media/projects/agrokonsul-tant-ai/cover-01-caa759.webp",
+      "contentType": "bot",
+      "projectType": "demo"
+    },
+    {
+      "id": "besplatnyy-vpn-protiv-platnogo",
+      "title": "Бесплатный VPN против платного",
+      "seoTitle": "Реклама VPN в формате MMA-боя | MATERIK",
+      "summary": "Рекламный AI-ролик в формате MMA-боя: бесплатный VPN мощнее внешне, но зависает и лагает, а стабильный платный VPN побеждает.",
+      "description": "Рекламный AI-ролик о противостоянии бесплатного и платного VPN: лаги и зависания превращены в наглядную метафору MMA-боя.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/besplatnyy-vpn-protiv-platnogo/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#besplatnyy-vpn-protiv-platnogo",
+      "cover": "https://materik-ai.ru/content/media/projects/besplatnyy-vpn-protiv-platnogo/cover-01-350772.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "biznes-ili-naym-virtual-nyy-personazh",
+      "title": "Бизнес или найм? — виртуальный персонаж",
+      "seoTitle": "Рисованный AI-персонаж для Reels | MATERIK",
+      "summary": "Рисованный AI-персонаж в коротком вертикальном ролике: один герой сохраняется в разных сценах и раскрывает тему выбора между наймом и бизнесом.",
+      "description": "Короткий Reels с постоянным рисованным AI-персонажем: один герой сохраняет внешность в нескольких сценах и ведёт историю от начала до финала.",
+      "categories": [
+        "Виртуальные персонажи"
+      ],
+      "url": "https://materik-ai.ru/portfolio/biznes-ili-naym-virtual-nyy-personazh/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#biznes-ili-naym-virtual-nyy-personazh",
+      "cover": "https://materik-ai.ru/content/media/projects/biznes-ili-naym-virtual-nyy-personazh/cover-01-0c98ab.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "video-ii-na-osnove-sayta",
+      "title": "Видео  ИИ  на основе сайта",
+      "seoTitle": "Видео с помощью ИИ",
+      "summary": "Видео созданное только ИИ  на основе анализа сайта",
+      "description": "Видео с помощью ИИ",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/video-ii-na-osnove-sayta/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#video-ii-na-osnove-sayta",
+      "cover": "https://materik-ai.ru/content/media/projects/video-ii-na-osnove-sayta/cover-01-da0451.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "voin-i-drakon",
+      "title": "Воин и Дракон",
+      "seoTitle": "Воин и Дракон — кинематографичное AI-видео | MATERIK",
+      "summary": "Кинематографичное видео беседы Воина и Дракона",
+      "description": "Кинематографичная сцена беседы Воина и Дракона. Пример AI-видео с персонажами, атмосферой фэнтези и сюжетной подачей.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/voin-i-drakon/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#voin-i-drakon",
+      "cover": "https://materik-ai.ru/content/media/projects/voin-i-drakon/cover-01-6966cc.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "volshebnik-i-drakon",
+      "title": "Волшебник и Дракон",
+      "seoTitle": "Волшебник и Дракон — юмористический AI-ролик | MATERIK",
+      "summary": "Юморной ролик из мультфильма",
+      "description": "Юмористический ролик с Волшебником и Драконом в мультфильмовом формате. Пример короткой AI-истории с персонажами и комедийной сценой.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/volshebnik-i-drakon/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#volshebnik-i-drakon",
+      "cover": "https://materik-ai.ru/content/media/projects/volshebnik-i-drakon/cover-01-ab7f79.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "devushka-i-robot",
+      "title": "Девушка и робот",
+      "seoTitle": "Девушка и робот — ретрофутуристичное AI-видео | MATERIK",
+      "summary": "Индустриальный ретрофутуризм в духе фантастики 80-х.",
+      "description": "Кинематографичное AI-видео «Девушка и робот» в эстетике индустриального ретрофутуризма и фантастики 80-х. Пример атмосферного визуального мира.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/devushka-i-robot/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#devushka-i-robot",
+      "cover": "https://materik-ai.ru/content/media/projects/devushka-i-robot/cover-01-b4d88d.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "demo-bot-dlya-prodazhi-nedvizhimosti",
+      "title": "Демо-бот для продажи недвижимости",
+      "seoTitle": "Демо-бот для продажи недвижимости | MATERIK",
+      "summary": "Подбирает квартиру, квалифицирует клиента и передаёт готовый лид менеджеру.",
+      "description": "Демо-бот для недвижимости: подбирает квартиры, отвечает по ипотеке и акциям, уточняет потребности, собирает контакты и передаёт лид менеджеру.",
+      "categories": [
+        "Боты и автоматизация"
+      ],
+      "url": "https://materik-ai.ru/portfolio/demo-bot-dlya-prodazhi-nedvizhimosti/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#demo-bot-dlya-prodazhi-nedvizhimosti",
+      "cover": "https://materik-ai.ru/content/media/projects/demo-bot-dlya-prodazhi-nedvizhimosti/cover-01-e49c81.webp",
+      "contentType": "bot",
+      "projectType": "demo"
+    },
+    {
+      "id": "dizayn-vitaminov",
+      "title": "Дизайн витаминов",
+      "seoTitle": "Дизайн витаминов — рекламный визуал продукта | MATERIK",
+      "summary": "Разработка дизайна витаминов",
+      "description": "Визуальная концепция и дизайн для продукта из категории витаминов. Пример рекламных карточек товара и AI-визуала для e-commerce.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/dizayn-vitaminov/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#dizayn-vitaminov",
+      "cover": "https://materik-ai.ru/content/media/projects/dizayn-vitaminov/cover-01-b962ff.webp",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "kak-usilit-ekspertnyy-reels-s-pomosch-yu-ai",
+      "title": "Как усилить экспертный Reels с помощью AI",
+      "seoTitle": "Как усилить экспертный Reels с помощью AI | MATERIK",
+      "summary": "Два тестовых AI-эффекта для экспертного Reels: оживающий сантиметр и интерактивный переход из разговорного видео в тренировку.",
+      "description": "Два AI-эффекта для экспертного Reels: оживающий сантиметр и переход из разговорного видео в тренировку. Пример усиления экспертного контента.",
+      "categories": [
+        "Экспертные видео и блоги"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kak-usilit-ekspertnyy-reels-s-pomosch-yu-ai/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kak-usilit-ekspertnyy-reels-s-pomosch-yu-ai",
+      "cover": "https://materik-ai.ru/content/media/projects/kak-usilit-ekspertnyy-reels-s-pomosch-yu-ai/cover-01-701e15.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "kachok-i-mastif",
+      "title": "Качок и мастиф",
+      "seoTitle": "Качок и мастиф — вирусный AI-ролик | MATERIK",
+      "summary": "Вирусный ролик о любви к животным",
+      "description": "Вирусный AI-ролик о животных с персонажами качка и мастифа. Пример короткого развлекательного контента, рассчитанного на эмоциональную реакцию.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kachok-i-mastif/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kachok-i-mastif",
+      "cover": "https://materik-ai.ru/content/media/projects/kachok-i-mastif/cover-01-c7a470.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "kostyum-pingvina-dlya-detey",
+      "title": "Костюм пингвина для детей",
+      "seoTitle": "Костюм пингвина для детей — AI-реклама | MATERIK",
+      "summary": "Рекламное видео костюма для детей",
+      "description": "Рекламное AI-видео детского костюма пингвина. Пример короткого продуктового видеокреатива для продвижения товара в соцсетях.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kostyum-pingvina-dlya-detey/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kostyum-pingvina-dlya-detey",
+      "cover": "https://materik-ai.ru/content/media/projects/kostyum-pingvina-dlya-detey/cover-01-1df4bc.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "kot-kachok",
+      "title": "Кот-качок",
+      "seoTitle": "Кот-качок — короткий AI-мультфильм | MATERIK",
+      "summary": "Короткий мульт о превращении кота в качка",
+      "description": "Короткий AI-мультфильм о превращении кота в качка. Пример развлекательной анимационной истории, созданной для короткого вертикального формата.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kot-kachok/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kot-kachok",
+      "cover": "https://materik-ai.ru/content/media/projects/kot-kachok/cover-01-ff7227.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "kotambiya-pikchers-doktorskuyu-zhevalo-seriya-1",
+      "title": "Котамбия Пикчерс — Докторскую жевало серия 1",
+      "seoTitle": "Котамбия Пикчерс — серийный AI-контент | MATERIK",
+      "summary": "Как звучала бы классика, если бы её писали про котов. Эпизод серии «Котамбия Пикчерс».",
+      "description": "Эпизод серии «Котамбия Пикчерс»: юмористическая интерпретация классики на кошачью тему. Пример серийного AI-контента с собственной концепцией.",
+      "categories": [
+        "Серийный контент"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kotambiya-pikchers-doktorskuyu-zhevalo-seriya-1/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kotambiya-pikchers-doktorskuyu-zhevalo-seriya-1",
+      "cover": "https://materik-ai.ru/content/media/projects/kotambiya-pikchers-doktorskuyu-zhevalo-seriya-1/cover-01-013bba.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "kotenok-pod-dozhdem",
+      "title": "Котёнок под дождём",
+      "seoTitle": "Котёнок под дождём — реалистичное AI-видео | MATERIK",
+      "summary": "Реалистичное видео животного",
+      "description": "Реалистичное AI-видео с котёнком под дождём. Пример генерации эмоциональной сцены с животным и естественной визуальной атмосферой.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kotenok-pod-dozhdem/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kotenok-pod-dozhdem",
+      "cover": "https://materik-ai.ru/content/media/projects/kotenok-pod-dozhdem/cover-01-e94825.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "kto-vzlomal-ii-obrazovatel-nyy-kvest",
+      "title": "Кто взломал ИИ? — образовательный квест",
+      "seoTitle": "Человек против ИИ — концепция AI-квеста | MATERIK",
+      "summary": "Концепция кибердетектива для подготовки к ОГЭ: школьница расследует взлом ИИ по цепочке цифровых улик. Сценарий, визуальный стиль и тестовая AI-сцена.",
+      "description": "Концепция образовательного квеста: школьники соревнуются с ИИ АРГО. Персонаж, игровая механика, визуальный стиль и сценарное развитие.",
+      "categories": [
+        "Концепции, идеи и сценарии"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kto-vzlomal-ii-obrazovatel-nyy-kvest/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kto-vzlomal-ii-obrazovatel-nyy-kvest",
+      "cover": "https://materik-ai.ru/content/media/projects/kto-vzlomal-ii-obrazovatel-nyy-kvest/cover-01-30b55b.webp",
+      "contentType": "text",
+      "projectType": "case"
+    },
+    {
+      "id": "kur-er-korotkaya-mul-t-ai-istoriya",
+      "title": "Курьер — короткая  мульт AI-история",
+      "seoTitle": "Курьер — короткая AI-история | MATERIK",
+      "summary": "Короткая анимационная AI-история о курьере: один герой проходит через несколько последовательных сцен с завязкой, развитием и финалом.",
+      "description": "Короткая анимационная AI-история с постоянным героем, последовательным сюжетом и несколькими связанными сценами в вертикальном формате.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/kur-er-korotkaya-mul-t-ai-istoriya/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#kur-er-korotkaya-mul-t-ai-istoriya",
+      "cover": "https://materik-ai.ru/content/media/projects/kur-er-korotkaya-mul-t-ai-istoriya/cover-01-062fba.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "montazh-reels-dlya-medicinskoy-kliniki",
+      "title": "Монтаж Reels для медицинской клиники",
+      "seoTitle": "Монтаж Reels для медицинской клиники | MATERIK",
+      "summary": "Два тестовых Reels: монтаж исходников, кадрирование, субтитры, плашки, графические акценты и визуальное оформление речи эксперта.",
+      "description": "Два Reels для медицинской клиники: монтаж исходников, кадрирование, субтитры, плашки, графические акценты и визуальная подача речи эксперта.",
+      "categories": [
+        "Экспертные видео и блоги"
+      ],
+      "url": "https://materik-ai.ru/portfolio/montazh-reels-dlya-medicinskoy-kliniki/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#montazh-reels-dlya-medicinskoy-kliniki",
+      "cover": "https://materik-ai.ru/content/media/projects/montazh-reels-dlya-medicinskoy-kliniki/cover-01-395819.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "montazh-novostnogo-reels-novosti-na-begu",
+      "title": "Монтаж новостного Reels — «Новости на бегу»",
+      "seoTitle": "Новости на бегу — монтаж новостного Reels | MATERIK",
+      "summary": "Создание новостного ролика из готового видео путём доработки.",
+      "description": "Монтаж новостного Reels «Новости на бегу»: доработка готового видео, визуальная упаковка и адаптация материала под короткий вертикальный формат.",
+      "categories": [
+        "Экспертные видео и блоги"
+      ],
+      "url": "https://materik-ai.ru/portfolio/montazh-novostnogo-reels-novosti-na-begu/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#montazh-novostnogo-reels-novosti-na-begu",
+      "cover": "https://materik-ai.ru/content/media/projects/montazh-novostnogo-reels-novosti-na-begu/cover-01-29cab4.jpg",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "obmen-ochkami",
+      "title": "Обмен очками",
+      "seoTitle": "Обмен очками — рекламный AI-видеокреатив | MATERIK",
+      "summary": "Короткий рекламный видеокреатив",
+      "description": "Короткий рекламный AI-видеокреатив с визуальной концепцией обмена очками. Пример простой идеи, превращённой в заметный ролик для соцсетей.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/obmen-ochkami/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#obmen-ochkami",
+      "cover": "https://materik-ai.ru/content/media/projects/obmen-ochkami/cover-01-89fecc.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "odin-prompt-tri-generacii",
+      "title": "Один промпт — три генерации",
+      "seoTitle": "Один промпт — три генерации AI-видео | MATERIK",
+      "summary": "Один и тот же промпт: две генерации Hailuo через разные сервисы и вариант Seedance. Сравнение движения, камеры и интерпретации сцены.",
+      "description": "Сравнение трёх AI-генераций по одному промпту: два варианта Hailuo и Seedance. Показаны различия в движении, камере и интерпретации сцены.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/odin-prompt-tri-generacii/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#odin-prompt-tri-generacii",
+      "cover": "https://materik-ai.ru/content/media/projects/odin-prompt-tri-generacii/cover-01-acf0f4.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "psihologiya-otnosheniy-muzhchiny-i-zhenschiny",
+      "title": "Психология отношений мужчины и женщины",
+      "seoTitle": "Психология отношений — экспертный AI-видеокреатив | MATERIK",
+      "summary": "Психология отношений в формате телевизионного батла для психолога и комментариев",
+      "description": "Экспертный видеокреатив о психологии отношений мужчины и женщины в формате телевизионного батла с комментариями психолога.",
+      "categories": [
+        "Экспертные видео и блоги"
+      ],
+      "url": "https://materik-ai.ru/portfolio/psihologiya-otnosheniy-muzhchiny-i-zhenschiny/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#psihologiya-otnosheniy-muzhchiny-i-zhenschiny",
+      "cover": "https://materik-ai.ru/content/media/projects/psihologiya-otnosheniy-muzhchiny-i-zhenschiny/cover-01-a010ee.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "pul-t-ot-chuzhogo-mneniya",
+      "title": "Пульт от чужого мнения",
+      "seoTitle": "Пульт от чужого мнения — концепт товара | MATERIK",
+      "summary": "Товары из серии хочу себе такой",
+      "description": "Концепция вымышленного товара «Пульт от чужого мнения» в формате рекламной карточки. Пример продуктовой идеи из серии «хочу себе такой».",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/pul-t-ot-chuzhogo-mneniya/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#pul-t-ot-chuzhogo-mneniya",
+      "cover": "https://materik-ai.ru/content/media/projects/pul-t-ot-chuzhogo-mneniya/cover-01-fb9081.webp",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "puhosos-i-viskovoz",
+      "title": "Пухосос и Висковоз",
+      "seoTitle": "Пухосос и Висковоз — AI-видео с персонажами | MATERIK",
+      "summary": "Встреча двух вымышленных вирусных персонажей",
+      "description": "Встреча двух вымышленных вирусных персонажей — Пухососа и Висковоза. Пример AI-видео с узнаваемыми героями и единой визуальной логикой.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/puhosos-i-viskovoz/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#puhosos-i-viskovoz",
+      "cover": "https://materik-ai.ru/content/media/projects/puhosos-i-viskovoz/cover-01-2ac85a.png",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "realistichnyy-ai-avatar-v-mashine",
+      "title": "Реалистичный AI-аватар в машине",
+      "seoTitle": "Реалистичный AI-аватар для видео | MATERIK",
+      "summary": "Фотореалистичный говорящий AI-аватар с естественной мимикой, синхронизацией речи и подачей в формате вертикального видео.",
+      "description": "Фотореалистичный AI-аватар с естественной мимикой и синхронизацией речи для Reels, рекламы и экспертных вертикальных видео.",
+      "categories": [
+        "Виртуальные персонажи"
+      ],
+      "url": "https://materik-ai.ru/portfolio/realistichnyy-ai-avatar-v-mashine/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#realistichnyy-ai-avatar-v-mashine",
+      "cover": "https://materik-ai.ru/content/media/projects/realistichnyy-ai-avatar-v-mashine/cover-01-373579.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "reklama-pokerruma",
+      "title": "Реклама Покеррума",
+      "seoTitle": "Реклама покеррума — короткий видеокреатив | MATERIK",
+      "summary": "Простая реклама покеррума",
+      "description": "Короткий рекламный видеокреатив для покеррума. Пример простой рекламной подачи продукта в формате видео для digital-каналов.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/reklama-pokerruma/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#reklama-pokerruma",
+      "cover": "https://materik-ai.ru/content/media/projects/reklama-pokerruma/cover-01-77b968.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "maxi-life-reklama-nedvizhimosti",
+      "title": "Реклама недвижимости",
+      "seoTitle": "Реклама недвижимости — AI-видео для девелопера | MATERIK",
+      "summary": "Короткий рекламный ролик для девелоперского проекта.",
+      "description": "Короткий рекламный AI-ролик для девелоперского проекта недвижимости. Пример видеокреатива для продвижения объекта и продукта в real estate.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/maxi-life-reklama-nedvizhimosti/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#maxi-life-reklama-nedvizhimosti",
+      "cover": "https://materik-ai.ru/content/media/projects/maxi-life-reklama-nedvizhimosti/cover-01-611665.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "reklamnyy-razgovornyy-rils",
+      "title": "Рекламный разговорный рилс",
+      "seoTitle": "Рекламный разговорный Reels — монтаж и подача | MATERIK",
+      "summary": "Тестовое задание",
+      "description": "Тестовый рекламный разговорный Reels в коротком вертикальном формате. Пример монтажа и визуальной упаковки экспертной подачи для соцсетей.",
+      "categories": [
+        "Экспертные видео и блоги"
+      ],
+      "url": "https://materik-ai.ru/portfolio/reklamnyy-razgovornyy-rils/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#reklamnyy-razgovornyy-rils",
+      "cover": "https://materik-ai.ru/content/media/projects/reklamnyy-razgovornyy-rils/cover-01-bcbe2c.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "remont-kvartir",
+      "title": "Ремонт квартир",
+      "seoTitle": "Ремонт квартир — рекламная концепция для Авито | MATERIK",
+      "summary": "Рекламная концепция ремонта квартир для Авито",
+      "description": "Рекламная концепция услуг ремонта квартир для размещения на Авито. Пример визуальной упаковки услуги и карточек рекламного объявления.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/remont-kvartir/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#remont-kvartir",
+      "cover": "https://materik-ai.ru/content/media/projects/remont-kvartir/cover-01-4edd2d.webp",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "romantichnoe-fentezi",
+      "title": "Романтичное фэнтези",
+      "seoTitle": "Романтичное фэнтези — кинематографичное AI-видео | MATERIK",
+      "summary": "Встреча у озера из сериала в стиле романтичного фэнтези",
+      "description": "Кинематографичная встреча у озера из истории в стиле романтичного фэнтези. Пример атмосферного AI-видео с персонажами и единой стилистикой.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/romantichnoe-fentezi/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#romantichnoe-fentezi",
+      "cover": "https://materik-ai.ru/content/media/projects/romantichnoe-fentezi/cover-01-604f05.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "sal-to-na-gruzovike",
+      "title": "Сальто на грузовике",
+      "seoTitle": "Сальто на грузовике — вирусная AI-сцена | MATERIK",
+      "summary": "Создание вирусной сцены с реалистичной съёмкой, движением камеры и трюком в одном непрерывном эпизоде.",
+      "description": "Вирусная AI-сцена с реалистичной съёмкой, движением камеры и трюком с грузовиком в одном непрерывном эпизоде.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/sal-to-na-gruzovike/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#sal-to-na-gruzovike",
+      "cover": "https://materik-ai.ru/content/media/projects/sal-to-na-gruzovike/cover-01-fefeac.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "sozdanie-reklamnyy-ob-yavleniy",
+      "title": "Создание рекламных объявлений",
+      "seoTitle": "Создание рекламных объявлений для Авито | MATERIK",
+      "summary": "Реклама для Авито.",
+      "description": "Пример создания рекламных визуалов и объявлений для Авито. Кейс по упаковке предложения в понятный и заметный формат для площадки.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/sozdanie-reklamnyy-ob-yavleniy/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#sozdanie-reklamnyy-ob-yavleniy",
+      "cover": "https://materik-ai.ru/content/media/projects/sozdanie-reklamnyy-ob-yavleniy/cover-01-cfaf62.webp",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "tort-ot-neyroseti",
+      "title": "Торт от нейросети",
+      "seoTitle": "Торт от нейросети — AI-реклама продукта | MATERIK",
+      "summary": "Реклама торта с помощью нейросети",
+      "description": "Рекламный AI-ролик для торта: продуктовая подача с использованием нейросетевой генерации. Пример короткого видеокреатива для рекламы.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/tort-ot-neyroseti/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#tort-ot-neyroseti",
+      "cover": "https://materik-ai.ru/content/media/projects/tort-ot-neyroseti/cover-01-ad74a4.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "tort-versiya-montazha",
+      "title": "Торт — версия монтажа",
+      "seoTitle": "Торт — монтаж AI-ролика из одного фото | MATERIK",
+      "summary": "Короткий ролик: версия монтажа торта на основе одного фото.",
+      "description": "Короткий AI-ролик, собранный на основе одного исходного фото торта. Пример превращения статичного изображения продукта в видеокреатив.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/tort-versiya-montazha/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#tort-versiya-montazha",
+      "cover": "https://materik-ai.ru/content/media/projects/tort-versiya-montazha/cover-01-ceecc5.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "finansovyy-rolik",
+      "title": "Финансовый ролик",
+      "seoTitle": "Финансовый ролик — информационный AI-видеокреатив | MATERIK",
+      "summary": "Информационная реклама",
+      "description": "Информационный AI-видеокреатив на финансовую тематику. Пример короткого рекламного ролика с понятной визуальной подачей информации.",
+      "categories": [
+        "AI-видео"
+      ],
+      "url": "https://materik-ai.ru/portfolio/finansovyy-rolik/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#finansovyy-rolik",
+      "cover": "https://materik-ai.ru/content/media/projects/finansovyy-rolik/cover-01-b249e4.webp",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "hudi",
+      "title": "Худи",
+      "seoTitle": "Худи — AI-карточки товара для fashion-бренда | MATERIK",
+      "summary": "Серия карточек товара для fashion-бренда в едином визуальном стиле",
+      "description": "Серия карточек товара для fashion-бренда с худи, выполненная в едином визуальном стиле. Пример AI-визуалов для e-commerce и рекламы одежды.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/hudi/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#hudi",
+      "cover": "https://materik-ai.ru/content/media/projects/hudi/cover-01-2f4238.webp",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "chelovek-protiv-ii-obrazovatel-nyy-kvest",
+      "title": "Человек против ИИ — образовательный квест",
+      "seoTitle": "Человек против ИИ — концепция AI-квеста | MATERIK",
+      "summary": "Концепция интеллектуальной дуэли школьников с самоуверенным ИИ АРГО: персонаж, игровая механика, визуальный стиль и развитие истории на несколько дней.",
+      "description": "Концепция образовательного квеста: школьники соревнуются с ИИ АРГО. Персонаж, игровая механика, визуальный стиль и сценарное развитие.",
+      "categories": [
+        "Концепции, идеи и сценарии"
+      ],
+      "url": "https://materik-ai.ru/portfolio/chelovek-protiv-ii-obrazovatel-nyy-kvest/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#chelovek-protiv-ii-obrazovatel-nyy-kvest",
+      "cover": "https://materik-ai.ru/content/media/projects/chelovek-protiv-ii-obrazovatel-nyy-kvest/cover-01-b79365.webp",
+      "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "ekspertnyy-razgovornyy-rils",
+      "title": "Экспертный разговорный рилс",
+      "seoTitle": "Экспертный разговорный Reels — AI-контент | MATERIK",
+      "summary": "",
+      "description": "Экспертный разговорный Reels в коротком вертикальном формате. Пример работы с экспертным контентом и визуальной подачей речи для соцсетей.",
+      "categories": [
+        "Экспертные видео и блоги"
+      ],
+      "url": "https://materik-ai.ru/portfolio/ekspertnyy-razgovornyy-rils/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#ekspertnyy-razgovornyy-rils",
+      "cover": "https://materik-ai.ru/content/media/projects/ekspertnyy-razgovornyy-rils/cover-01-f539cd.jpg",
+      "contentType": "video",
+      "projectType": "case"
+    },
+    {
+      "id": "elektrika",
+      "title": "Электрика",
+      "seoTitle": "Электрика — рекламная концепция для Авито | MATERIK",
+      "summary": "Рекламная концепция объявления на Авито",
+      "description": "Рекламная концепция объявления услуг электрика для размещения на Авито. Пример визуальной упаковки услуги и рекламного креатива MATERIK.",
+      "categories": [
+        "Реклама и карточки товара"
+      ],
+      "url": "https://materik-ai.ru/portfolio/elektrika/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#elektrika",
+      "cover": "https://materik-ai.ru/content/media/projects/elektrika/cover-01-f7cff2.webp",
+      "contentType": "gallery",
+      "projectType": "case"
+    }
   ]
 }
