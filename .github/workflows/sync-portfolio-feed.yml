@@ -1,0 +1,75 @@
+name: Sync MATERIK portfolio feed
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/sync-portfolio-feed.yml"
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-materik-portfolio-feed
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download and validate current portfolio feed
+        shell: bash
+        run: |
+          set -euo pipefail
+          url='https://materik-ai.ru/portfolio-feed/?format=json'
+          curl --fail --show-error --silent --location             --retry 3 --retry-all-errors --connect-timeout 20 --max-time 90             "$url" -o /tmp/portfolio-feed.json
+
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path('/tmp/portfolio-feed.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+
+          if data.get('site') != 'MATERIK':
+              raise SystemExit('Unexpected site field')
+          projects = data.get('projects')
+          if not isinstance(projects, list):
+              raise SystemExit('projects is not a list')
+          if data.get('count') != len(projects):
+              raise SystemExit('count does not match projects length')
+
+          for p in projects:
+              if not isinstance(p, dict):
+                  raise SystemExit('project is not an object')
+              url = p.get('url', '')
+              if not isinstance(url, str) or not url.startswith('https://materik-ai.ru/portfolio/'):
+                  raise SystemExit(f'Invalid project url: {url!r}')
+
+          Path('portfolio-feed.json').write_text(
+              json.dumps(data, ensure_ascii=False, indent=2) + '\n',
+              encoding='utf-8'
+          )
+          print(f"Validated {len(projects)} projects")
+          PY
+
+      - name: Commit mirror only when changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- portfolio-feed.json; then
+            echo "Mirror is already current"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add portfolio-feed.json
+          git commit -m "Sync public portfolio feed"
+          git push
