@@ -1,8 +1,8 @@
 {
   "site": "MATERIK",
   "portfolio": "https://materik-ai.ru/portfolio/",
-  "count": 66,
-  "updatedAt": "2026-10-27T06:16:05+00:00",
+  "count": 67,
+  "updatedAt": "2026-11-17T08:00:10+00:00",
   "projects": [
     {
       "id": "kak-investiruyut-bogatye-i-bednye",
@@ -80,6 +80,21 @@
       "legacyUrl": "https://materik-ai.ru/portfolio/#groundhog-day",
       "cover": "https://materik-ai.ru/media/covers/groundhog.jpg",
       "contentType": "gallery",
+      "projectType": "case"
+    },
+    {
+      "id": "sotrudnik-goda",
+      "title": "Сотрудник года",
+      "seoTitle": "Сотрудник года — MATERIK",
+      "summary": "Краткое описание:\r\nЮмористический корпоративный AI-мультфильм о награждении «Сотрудник года» с неожиданным победителем. Офисные персонажи, интрига и финальный гэг.",
+      "description": "Краткое описание:\r\nЮмористический корпоративный AI-мультфильм о награждении «Сотрудник года» с неожиданным победителем. Офисные персонажи, интрига и финальный гэг.",
+      "categories": [
+        "Мультфильмы и кинематографичные истории"
+      ],
+      "url": "https://materik-ai.ru/portfolio/sotrudnik-goda/",
+      "legacyUrl": "https://materik-ai.ru/portfolio/#sotrudnik-goda",
+      "cover": "https://materik-ai.ru/content/media/projects/sotrudnik-goda/cover-01-c0dbb1.jpg",
+      "contentType": "video",
       "projectType": "case"
     },
     {
